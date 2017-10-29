@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -246,3 +246,8 @@
   Place: Japan  
   Bio: PhD student in Software Engineering  
   Github: [sruangwan](https://github.com/sruangwan)  
+
+- Name: Tharindu Dilshan  
+  Place: Sri Lanka  
+  Bio: Software Engineering student at University of Westminster
+  Github: [TharinduDilshan](https://github.com/TharinduDilshan)  
